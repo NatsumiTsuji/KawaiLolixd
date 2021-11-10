@@ -6,23 +6,23 @@
 
       <th></th>
 
-      <th colspan="2">Anthony</th>
+      <th colspan="2">C1</th>
 
-      <th colspan="2">Lione</th>
+      <th colspan="2">C2</th>
 
     </tr>
 
     <tr>
 
-      <th scope="col">Fecha</th>
+      <th scope="col">C3</th>
 
-      <th>Entrada</th>
+      <th>C4</th>
 
-      <th>Salida</th>
+      <th>C5</th>
 
-      <th>Entrada</th>
+      <th>C6</th>
 
-      <th>Salida</th>
+      <th>C7</th>
 
     </tr>
 
@@ -32,71 +32,71 @@
 
     <tr>
 
-      <th>15/07</th>
+      <th>C8</th>
 
-      <td>$200,00</td>
+      <td>C9</td>
 
-      <td>$50,00</td>
+      <td>C10</td>
 
-      <td>$0</td>
+      <td>C11</td>
 
-      <td>$0</td>
-
-    </tr>
-
-    <tr>
-
-      <th>28/07</th>
-
-      <td>$0,00</td>
-
-      <td>$100,00</td>
-
-      <td>$100,00</td>
-
-      <td>$0,00</td>
+      <td>C12</td>
 
     </tr>
 
     <tr>
 
-      <th>09/08</th>
+      <th>C13</th>
 
-      <td>$0,00</td>
+      <td>C14</td>
 
-      <td>$50,00</td>
+      <td>C15</td>
 
-      <td>$0,00</td>
+      <td>C16</td>
 
-      <td>$80,00</td>
-
-    </tr>
-
-    <tr>
-
-      <th>22/08</th>
-
-      <td>$40,00</td>
-
-      <td>$0,00</td>
-
-      <td>$0,00</td>
-
-      <td>$110,00</td>
+      <td>C17</td>
 
     </tr>
 
     <tr>
 
-      <th>25/08</th>
+      <th>C18</th>
 
-      <td>$0,00</td>
+      <td>C19</td>
 
-      <td>$20,00</td>
+      <td>C20</td>
 
-      <td>$0,00</td>
+      <td>C21</td>
 
-      <td>$0,00</td>
+      <td>C22</td>
+
+    </tr>
+
+    <tr>
+
+      <th>C23</th>
+
+      <td>C24</td>
+
+      <td>C25</td>
+
+      <td>C26</td>
+
+      <td>C27</td>
+
+    </tr>
+
+    <tr>
+
+      <th>C28</th>
+
+      <td>C29</td>
+
+      <td>C30</td>
+
+      <td>C31</td>
+
+      <td>C32</td>
 
     </tr>
 
@@ -106,11 +106,11 @@
 
     <tr>
 
-      <th>Balance</th>
+      <th>C33</th>
 
-      <td colspan="2">$20,00</td>
+      <td colspan="2">C24</td>
 
-      <td colspan="2">$10,00</td>
+      <td colspan="2">C25</td>
 
     </tr>
 
