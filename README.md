@@ -1,4 +1,4 @@
-<table class="default">
+<table class="default" width="100%" height="100%">
 
   <thead>
 
